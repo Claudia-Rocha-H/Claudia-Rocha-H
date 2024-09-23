@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Claudia-Rocha-H
-- 👀 Currently, I’m interested  in Quantum computing and data science mostly but i enjoy learning every kind of things 
+- 👀 I’m interested  in Cibersecurity and I am working hard on it but i enjoy learning every kind of things 
 - 🌱 I’m enforcing Java and Python
 - 📫 How to reach me: rochaclaudia177@gmail.com  (You can speak to me in Spanish or English)
 
