@@ -22,15 +22,9 @@
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/claudia-rocha-h/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
-  </a>
-  <a href="https://github.com/Claudia-Rocha-H" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" />
-  </a>
-  <a href="https://instagram.com/rocha_arts7" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/claudia-rocha-h/" target="_blank" style="text-decoration: none;"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="30" /></a>
+  <a href="https://github.com/Claudia-Rocha-H" target="_blank" style="text-decoration: none;"><img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="30" /></a>
+  <a href="https://instagram.com/rocha_arts7" target="_blank" style="text-decoration: none;"><img src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" width="30" /></a>
 </p>
 
 ---
