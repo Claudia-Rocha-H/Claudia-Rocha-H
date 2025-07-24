@@ -11,7 +11,6 @@
 
 🔭 Currently building a **Network Sniffer & Packet Analyzer** in Python, diving into low-level networking.  
 🌱 Exploring **cybersecurity**, **cloud security**, and **secure coding practices**.  
-👯 I love contributing to open-source (especially in **Next.js**, **React** or **security tools**).  
 💬 Ask me about **Python, Java, C++, web dev, databases, or ethical hacking**.  
 📫 Email: [rochaclaudia177@gmail.com](mailto:rochaclaudia177@gmail.com)  
 😄 Pronouns: She/Her  
