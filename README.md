@@ -70,12 +70,21 @@ Desktop tool to solve Linear Programming problems with a 3D visualization of the
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudia-Rocha-H&layout=compact&theme=radical" alt="Top Langs" />
+### 📊 GitHub Summary
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Claudia-Rocha-H&theme=github_dark" width="90%" />
 </p>
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Claudia-Rocha-H&theme=github_dark" width="45%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Claudia-Rocha-H&theme=github_dark" width="45%" />
+</p>
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Claudia-Rocha-H&theme=github_dark" width="45%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Claudia-Rocha-H&theme=github_dark" width="45%" />
+</p>
 ### 🎧 My Coding Playlist
 
 <p align="center">
