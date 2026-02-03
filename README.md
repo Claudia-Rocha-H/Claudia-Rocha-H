@@ -85,6 +85,9 @@ Desktop tool to solve Linear Programming problems with a 3D visualization of the
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Claudia-Rocha-H&theme=github_dark" width="45%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Claudia-Rocha-H&theme=github_dark" width="45%" />
 </p>
+
+
+---
 ### 🎧 My Coding Playlist
 
 <p align="center">
@@ -95,5 +98,4 @@ Looking for some coding vibes? Here's one of my go-to playlists:
 </a>
 </p>
 
----
 
