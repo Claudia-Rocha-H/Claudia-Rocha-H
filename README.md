@@ -71,7 +71,11 @@ Desktop tool to solve Linear Programming problems with a 3D visualization of the
 ---
 
 ### 📊 GitHub Summary
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Claudia-Rocha-H/stack-stats/main/stats.svg"
+       alt="Language Stats"
+       width="90%" />
+</p>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Claudia-Rocha-H&theme=github_dark" width="90%" />
 </p>
@@ -81,10 +85,7 @@ Desktop tool to solve Linear Programming problems with a 3D visualization of the
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Claudia-Rocha-H&theme=github_dark" width="45%" />
 </p>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Claudia-Rocha-H&theme=github_dark" width="45%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Claudia-Rocha-H&theme=github_dark" width="45%" />
-</p>
+
 
 
 ---
