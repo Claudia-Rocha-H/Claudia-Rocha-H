@@ -56,8 +56,8 @@
 
 ### 🚀 Featured Projects
 
-#### 🕵️‍♀️ Network Sniffer & Packet Analyzer (Python)
-Custom tool to capture and analyze live network traffic by dissecting packets layer by layer.  
+#### ♟️ Chess Engine (C++, CMake)
+Modular chess engine built in modern C++ focused on clean architecture, efficient move generation, and search algorithms such as minimax with alpha-beta pruning. Designed for performance, testability, and incremental development.
 **Status:** 🛠️ In Development
 
 #### 📦 CourierSync (Next.js, SpringBoot, PostgreSQL)
