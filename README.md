@@ -9,7 +9,7 @@
 
 ### 💡 About Me
 
-🔭 Currently building a **Network Sniffer & Packet Analyzer** in Python, diving into low-level networking.  
+🔭 Currently building **MagnusChess**, a modular chess engine in C++ focused on clean architecture, efficient move generation, and advanced search algorithms.  
 🌱 Exploring **cybersecurity**, **cloud security**, and **secure coding practices**.  
 💬 Ask me about **Python, Java, C++, web dev, databases, or ethical hacking**.  
 📫 Email: [rochaclaudia177@gmail.com](mailto:rochaclaudia177@gmail.com)  
