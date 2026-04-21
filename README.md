@@ -7,17 +7,18 @@
 
 ---
 
-### 💡 About Me
+###  About Me
 
-🔭 Currently building **MagnusChess**, a modular chess engine in C++ focused on clean architecture, efficient move generation, and advanced search algorithms.  
-🌱 Exploring **cybersecurity**, **cloud security**, and **secure coding practices**.  
-💬 Ask me about **Python, Java, C++, web dev, databases, or ethical hacking**.  
-📫 Email: [rochaclaudia177@gmail.com](mailto:rochaclaudia177@gmail.com)  
-⚡ My Interests: I’m into **CTFs**, **drawing**, **cooking**, and **solving puzzles**.
+- Currently building **MagnusChess**, a modular chess engine in C++ focused on clean architecture, efficient move generation, and advanced search algorithms.  
+- Exploring **cybersecurity**, **cloud security**, and **secure coding practices**.  
+- Ask me about **Python, Java, C++, web dev, databases, or ethical hacking**.  
+- Email: [rochaclaudia177@gmail.com](mailto:rochaclaudia177@gmail.com)
+- Portfolio: https://claudia-rocha-h.github.io/Portfolio/
+- My Interests: I’m into **CTFs**, **drawing**, **cooking**, and **solving puzzles**.
 
 ---
 
-### 🌐 Connect with me
+###  Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/claudia-rocha-h/" target="_blank" style="text-decoration: none;"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="30" /></a>
@@ -27,7 +28,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+###  Languages & Tools
 
 <p align="left">
 <!-- Lenguajes -->
@@ -54,23 +55,23 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
-#### ♟️ Chess Engine (C++, CMake)
-Modular chess engine built in modern C++ focused on clean architecture, efficient move generation, and search algorithms such as minimax with alpha-beta pruning. Designed for performance, testability, and incremental development.
-**Status:** 🛠️ In Development
+- ####  Chess Engine (C++, CMake)
+  Modular chess engine built in modern C++ focused on clean architecture, efficient move generation, and search algorithms such as minimax with alpha-beta pruning. Designed for performance, testability, and incremental development.
+  **Status:**  In Development
 
-#### 📦 CourierSync (Next.js, SpringBoot, PostgreSQL)
-Logistics platform with role-based access, database modeling, and frontend deployment.  
-**Status:** ✅ Completed
+- ####  CourierSync (Next.js, SpringBoot, PostgreSQL)
+  Logistics platform with role-based access, database modeling, and frontend deployment.  
+  **Status:**  Completed
 
-#### 📐 SimplexSolverQt (C++, Qt, Python)
-Desktop tool to solve Linear Programming problems with a 3D visualization of the feasible region.  
-**Status:** ✅ Completed
+- ####  SimplexSolverQt (C++, Qt, Python)
+  Desktop tool to solve Linear Programming problems with a 3D visualization of the feasible region.  
+  **Status:**  Completed
 
 ---
 
-### 📊 GitHub Summary
+###  GitHub Summary
 <p align="center">
   <img src="https://raw.githubusercontent.com/Claudia-Rocha-H/stack-stats/main/stats.svg"
        alt="Language Stats"
@@ -89,7 +90,7 @@ Desktop tool to solve Linear Programming problems with a 3D visualization of the
 
 
 ---
-### 🎧 My Coding Playlist
+###  My Coding Playlist
 
 <p align="center">
 Looking for some coding vibes? Here's one of my go-to playlists:
